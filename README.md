@@ -6,14 +6,18 @@
 :dart: Procuro me desenvolver de forma holística - tanto profissional quanto pessoal.  <br/>
 :mag_right: Sou atraído pelo saber multidisciplinar, sendo que hoje os meus interesses englobam tópicos como Análise/Visualização de Dados e Inteligência Artificial.<br/>
 :mortar_board: Sou formado em Engenharia Aeronáutica pela Universidade Federal de Uberlândia, meu trabalho de conclusão de curso  uniu a [mecanica dos fluidos e machine learning para metamodelagem](https://repositorio.ufu.br/handle/123456789/38413) <br/>
-:hammer: No momento estou estudando para a certificação de [Engenheiro de Dados da Google](https://cloud.google.com/learn/certification/data-engineer).
+:building_construction: Obti a certificação de [Engenheiro de Dados da Google](https://www.credly.com/badges/34bd1d44-3b01-45f4-9542-84101d9a2a3f/public_url). <br/>
+:school: Pós Graduação em Data Science e Analytics pela USP em andamento. <br/>
+:office: Trabalhei na Accenture, atualmete na Capgemini.
 
 ### 🇺🇸 Hi there 👋
 🇺🇸  Cape Verdean :cape_verde: born in the diaspora. Embarked on a journey to Brazil to continue my learning path. <br/>
 🎯 I aim to develop myself holistically - both professionally and personally. <br/>
 🔍 Attracted to multidisciplinary knowledge, my current interests encompass topics such as Data Analysis/Visualization and Artificial Intelligence. <br/>
 🎓 I hold a degree in Aeronautical Engineering from the Federal University of Uberlândia, my thesis combined [fluid mechanics and machine learning for metamodeling.](https://repositorio.ufu.br/handle/123456789/38413) <br/>
-:hammer:Currently, I am studying for the [Google Data Engineer certification](https://cloud.google.com/learn/certification/data-engineer).
+:building_construction: Got my [Google Data Engineer certification](https://www.credly.com/badges/34bd1d44-3b01-45f4-9542-84101d9a2a3f/public_url).
+:school: Ongoing MBA in Data Science and Analytics at USP. <br/>
+:office: Worked  at Accenture, currently at Capgemini.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
